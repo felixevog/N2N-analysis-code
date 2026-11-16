@@ -1,0 +1,8 @@
+# Participant-level inputs and outputs: never commit
+data/
+output/
+*.RData
+*.rds
+.Rhistory
+.Rproj.user/
+.DS_Store
